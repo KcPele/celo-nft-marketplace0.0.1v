@@ -2,15 +2,15 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/contracts/CeloNFT.sol": {
-      "lastModificationDate": 1658304192101,
+      "lastModificationDate": 1659367378064,
       "contentHash": "2934552a0692cf9599e425a0022be1c3",
       "sourceName": "contracts/CeloNFT.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -19,19 +19,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -46,15 +39,15 @@
       ]
     },
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
-      "lastModificationDate": 1658303684003,
+      "lastModificationDate": 1659367689935,
       "contentHash": "79ff1a7eb801a525aa315fb7a679eede",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -63,19 +56,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -96,15 +82,15 @@
       ]
     },
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
-      "lastModificationDate": 1658303684003,
+      "lastModificationDate": 1659367690719,
       "contentHash": "ec99d946db3685a3630554aa6055bd7f",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -113,19 +99,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -140,15 +119,15 @@
       ]
     },
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
-      "lastModificationDate": 1658303684003,
+      "lastModificationDate": 1659367690795,
       "contentHash": "c22d4395e33763de693fd440c6fd10e1",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -157,19 +136,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -182,15 +154,15 @@
       ]
     },
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
-      "lastModificationDate": 1658303696799,
+      "lastModificationDate": 1659367690795,
       "contentHash": "efbc0d15b80a74e34dbe8da0f3e879bb",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -199,19 +171,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -226,15 +191,15 @@
       ]
     },
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/utils/Address.sol": {
-      "lastModificationDate": 1658303669302,
+      "lastModificationDate": 1659367687755,
       "contentHash": "c476b3895a94798b88a4bb97399e6dfe",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -243,19 +208,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -268,15 +226,15 @@
       ]
     },
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/utils/Context.sol": {
-      "lastModificationDate": 1658303669302,
+      "lastModificationDate": 1659367688955,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -285,19 +243,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -310,15 +261,15 @@
       ]
     },
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
-      "lastModificationDate": 1658303669302,
+      "lastModificationDate": 1659367691415,
       "contentHash": "cf46906c4035f51639a22265066a9e78",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -327,19 +278,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -352,15 +296,15 @@
       ]
     },
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
-      "lastModificationDate": 1658303684003,
+      "lastModificationDate": 1659367689543,
       "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -369,19 +313,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -396,15 +333,15 @@
       ]
     },
     "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
-      "lastModificationDate": 1658303684003,
+      "lastModificationDate": 1659367690675,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -413,19 +350,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
@@ -437,16 +367,16 @@
         "IERC165"
       ]
     },
-    "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/node_modules/@openzeppelin/contracts/interfaces/IERC721.sol": {
-      "lastModificationDate": 1658303669130,
-      "contentHash": "e6da7798a8c22c5043cc42d64a2a8f80",
-      "sourceName": "@openzeppelin/contracts/interfaces/IERC721.sol",
+    "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/contracts/CeloNFTMarketplace.sol": {
+      "lastModificationDate": 1659367439937,
+      "contentHash": "baa5783ef686edc8476f4d85bb48a8db",
+      "sourceName": "contracts/CeloNFTMarketplace.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 110
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -455,61 +385,12 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
+                "metadata"
               ],
               "": [
                 "ast"
               ]
             }
-          },
-          "metadata": {
-            "useLiteralContent": true
-          }
-        }
-      },
-      "imports": [
-        "../token/ERC721/IERC721.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": []
-    },
-    "/home/kcpele/Desktop/celo-nft-marketplace/hardhat/contracts/NFTMarketplace.sol": {
-      "lastModificationDate": 1658304675977,
-      "contentHash": "db0880bfdf35c59a8d21bf1e6c3311eb",
-      "sourceName": "contracts/NFTMarketplace.sol",
-      "solcConfig": {
-        "version": "0.8.7",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 110
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          },
-          "metadata": {
-            "useLiteralContent": true
           }
         }
       },
